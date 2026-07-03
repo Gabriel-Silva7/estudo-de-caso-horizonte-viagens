@@ -35,4 +35,4 @@ O repositório contém:
 
 ## Autor
 
-Desenvolvido como atividade acadêmica para a UC10.
+Desenvolvido como atividade acadêmica para a UC10, feito em dupla (Matheus e Gabriel Caruso).
